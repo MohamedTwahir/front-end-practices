@@ -18,7 +18,7 @@ body {
     font-weight: 400;
     line-height: 1.4;
     color: rgb(0, 0, 0);
-    background-color: #80bdff;
+    background-color: rgb(255, 255, 255);
     margin: 0;
 }
 root {
