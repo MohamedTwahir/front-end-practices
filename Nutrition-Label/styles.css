@@ -46,6 +46,9 @@ p {
     background-color: black;
     border: 0;
 }
+.medium {
+    height: 5px;
+}
 
 .small-text {
     font-size: 0.85;
@@ -59,4 +62,28 @@ p {
 
 .calories-info h2 {
     margin: 0;
+}
+.left-container p {
+    margin: -5px -2px;
+    font-size: 2em;
+    font-weight: 700;
+}
+.calories-info span {
+    margin: -7px -2px;
+    font-size: 2.4em;
+    font-weight: 700;
+}
+.right {
+    justify-content: flex-end;
+}
+
+.indent {
+    margin-left: 1em;
+}
+.double-indent {
+    margin-left: 2em;
+}
+
+.daily-value p:not(.no-divider) {
+    border-bottom: 1px solid #888989;
 }
