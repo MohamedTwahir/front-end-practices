@@ -2,7 +2,7 @@ In this project i will be building a transparent sidebar.
 In website layout, there is usually a strong chance you include a column of important links or information to the right or left of the main content area. This element in a webpage is famously known as a "sidebar".
 It is a dominant across the web. This is why i saw it vital to understand how this feature works.
 
-I understand not all websites need sidebars and some design features are much better of without them but i just found it interesting to go deeper with a purpose of understanding this feature
+I understand not all websites need sidebars and some design features are much better off without them but i just found it interesting to go deeper with a purpose of understanding this feature
 
 # What and why ?
 This is one of the few questions i had on my mind before beginning this task.
@@ -19,7 +19,7 @@ The primary advantaged of incorporating sidebar to your website is visibility. U
 Sidebars are often containing (Call to Action(CTA)) elements such as email subscription forms and ads. Navigational features are also dominant in them.
 
 
-#Types of websites which heavily rely on sidebars;
+# Types of websites which heavily rely on sidebars;
     * Content-Heavy websites(blogs, newsites and online magazines)
     * online stores
         - related products and past purchases
