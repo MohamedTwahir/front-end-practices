@@ -259,3 +259,15 @@ section {
     font-weight: 400;
     color: #6b7280;
 }
+/* media queries for each style in the section */
+@media (max-width: 900px) {
+    section {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 500px) {
+    section {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
