@@ -209,3 +209,9 @@ body {
 }
 
 /* CARD STYLING */
+section {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    padding: 80px 40px 40px 80px;
+}
